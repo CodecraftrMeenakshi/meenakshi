@@ -1,0 +1,7 @@
+public static void main(String[] args) {
+		    int a = 213,b = 50;
+		    double res;
+		    res = a * 1.0/b;
+		    
+		    System.out.println(res);
+	}
